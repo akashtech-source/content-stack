@@ -14,3 +14,40 @@ a {
 * {
   box-sizing: border-box;
 }
+.header-container {
+  background-image: url(../public/images/Homepage_header-0321.jpg);
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+.profile-main {
+  background-image: url('https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt7ac2a0c587b48e49/6024306e37c7bc6afba53242/Waves.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.leftDiv {
+  background-color: #2a0f57;
+  height: 400px;
+  position: relative;
+  top: -4px;
+  font-family: 'Montserrat',sans-serif;
+  color: white;
+  padding: 30px;
+}
+.rightDiv {
+  background-color: #eb5646;
+  height: 400px;
+  position: relative;
+  top: -4px;
+  font-family: 'Montserrat',sans-serif;
+  color: white;
+  padding: 30px;
+}
+.care-container {
+  background-color: #2a0f57;
+}
+.try-container {
+  background-color: #5b319e;
+  padding: 40px;
+  margin-top: 70px;
+}
