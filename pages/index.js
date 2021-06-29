@@ -13,6 +13,7 @@ import Partners from '../components/Partners'
 import Alliance from '../components/Alliance'
 import Resources from '../components/Resources'
 import TryBelieve from '../components/TryBelieve';
+import Footer from '../components/Footer'
 
 export default function Home() {
   return (
@@ -34,6 +35,7 @@ export default function Home() {
       <Alliance />
       <Resources />
       <TryBelieve />
+      <Footer />
     </div>
   )
 }

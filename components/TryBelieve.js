@@ -19,7 +19,7 @@ const TryBelieve = () => {
             >
               TRY IT TO BELIEVE IT
             </Typography>
-            <div style={{textAlign: 'center', color: 'white'}}>
+            <div style={{textAlign: 'center', marginTop: '30px', color: 'white'}}>
                 <Button>LEARN MORE</Button>
                 <Button>CONTACT US</Button>
             </div>
